@@ -1,12 +1,12 @@
 ---
-title: "News"
+title: "Notícias"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Labdaps"
 sitemap: false
 permalink: /allnews.html
 ---
 
-# News
+# Notícias
 
 {% for article in site.data.news %}
 <p>{{ article.date }} <br>

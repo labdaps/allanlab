@@ -1,0 +1,204 @@
+I"<h1 id="membros-do-grupo">Membros do Grupo</h1>
+
+<p>Jump to <a href="#staff">staff</a>, <a href="#master-and-bachelor-students">master and bachelor students</a>, <a href="#alumni">alumni</a>, <a href="#administrative-support">administrative support</a>, <a href="#lab-visitors">lab visitors</a>.</p>
+
+<h2 id="equipe">Equipe</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/alexdiasporto.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Axandre Dias Porto Chiavegatto Filho</h4>
+    <p><i>Diretor<br />email: <a href="mailto:alexdiasporto@usp.br">alexdiasporto@usp.br</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li> Graduação em Economia na FEA/USP </li>
+  <li> Doutorado Direto em Saúde Pública na FSP/USP </li>
+  <li> Pós-doutorado na Universidade de Harvard </li>
+  <li> Professor convidado (2016) e pesquisador visitante (2017 e 2019) na Universidade de Harvard </li>
+  <li> Coordenador de cursos na FSP/USP sobre o uso do R para a análise de dados e sobre machine learning em saúde </li>
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Andre.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>André Filipe de Moraes Batista</h4>
+    <p><i>Pesquisador<br />email: <a href="mailto:ge@Physics.LeidenUniv.nl">ge@Physics.LeidenUniv.nl</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+  <li> Doutor em Engenharia da Computação pela Escola Politécnica da USP </li>
+  <li> Graduação e Mestrado em Ciência da Computação pela Universidade Federal do ABC (UFABC) </li>
+  <li> Atualmente realiza seu pós-doutorado no LABDAPS com pesquisas aplicando machine learning na área da saúd </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Diego.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Diego Pereira Barboza</h4>
+    <p><i>Pesquisador<br />email: <a href="mailto:Bastiaans@Physics.LeidenUniv.nl">Bastiaans@Physics.LeidenUniv.nl</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+  <li> Doutorado em Matemática Aplicada pela USP </li>
+  <li> Graduação e mestrado em matemática pela Universidade Federal de Alagoas </li>
+  <li> Atualmente realiza pós-doutorado no LABDAPS na aplicação de machine learning para predizer eventos como internação hospitalar e óbitos </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Mariane.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Mariane Furtado Borba</h4>
+    <p><i>Pesquisadora<br />email: <a href="mailto:chatzopoulos@Physics.LeidenUniv.nl">chatzopoulos@Physics.LeidenUniv.nl</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+  <li> Graduação e mestrado em Economia Aplicada pela Universidade Federal de Pelotas </li>
+  <li> Experiência em pesquisas sobre avaliação de políticas públicas e economia da saúde. </li>
+  <li> Atualmente é doutoranda em Epidemiologia da FSP/USP e pesquisadora do LABDAPS, realizando pesquisas na área de predição da incidência de eventos de saúde com machine learning </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Fernanda.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Fernanda Fortti de Carvalho Vianna</h4>
+    <p><i>Pesquisadora<br />email: <a href="mailto:WTromp@physics.leidenuniv.nl">WTromp@physics.leidenuniv.nl</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+  <li> Graduação em Biomedicina pela UNIFESP </li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Felipe.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Felippe Lazar Neto</h4>
+    <p><i>Pesquisador<br />email: <a href="mailto:benschop@physics.leidenuniv.nl">benschop@physics.leidenuniv.nl</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+  <li> Graduação em Medicina pela Faculdade de Medicina da USP </li>
+  <li> Residência em Clínica Médica pela Faculdade de Medicina da USP </li>
+  <li> Atualmente realiza estágio científico no LABDAPS sobre a aplicação de algoritmos de machine learning para predições em saúde </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Thiago.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Tiago Almeida de Oliveira</h4>
+    <p><i>Pesquisador<br />email: <a href="mailto:tadolive84@gmail.com">tadolive84@gmail.com</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+  <li> Doutor em Ciências (Estatística e Experimentação Agropecuária), tese com <a href=" http://www.lce.esalq.usp.br/ ">LCE</a>, Universidade de São Paulo Campus Luiz de Queiroz </li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Bruno.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Bruno Casaes Teixeira</h4>
+    <p><i>Pesquisador<br />email: <a href="mailto:bcteixeira@usp.br">bcteixeira@usp.br</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+  <li> Graduação em Farmácia-Bioquímica pela Universidade de São Paulo </li>
+  <li> Mestrando na Faculdade de Epidemiologia </li>
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+:ET

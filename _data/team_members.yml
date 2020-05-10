@@ -1,83 +1,75 @@
-- name: Milan P Allan
-  photo: Milan.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
+- name: Axandre Dias Porto Chiavegatto Filho
+  photo: alexdiasporto.jpg
+  info: Diretor
+  email: alexdiasporto@usp.br
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  education1: Graduação em Economia na FEA/USP
+  education2: Doutorado Direto em Saúde Pública na FSP/USP
+  education3: Pós-doutorado na Universidade de Harvard
+  education4: Professor convidado (2016) e pesquisador visitante (2017 e 2019) na Universidade de Harvard
+  education5: Coordenador de cursos na FSP/USP sobre o uso do R para a análise de dados e sobre machine learning em saúde
 
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
+- name: André Filipe de Moraes Batista
+  photo: Andre.png
+  info: Pesquisador
   email: ge@Physics.LeidenUniv.nl
   number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+  education1: Doutor em Engenharia da Computação pela Escola Politécnica da USP
+  education2: Graduação e Mestrado em Ciência da Computação pela Universidade Federal do ABC (UFABC)
+  education3: Atualmente realiza seu pós-doutorado no LABDAPS com pesquisas aplicando machine learning na área da saúd
 
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: PhD Student, started Sep 2015
+- name: Diego Pereira Barboza
+  photo: Diego.jpg
+  info: Pesquisador
   email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
+  number_educ: 3
+  education1: Doutorado em Matemática Aplicada pela USP
+  education2: Graduação e mestrado em matemática pela Universidade Federal de Alagoas
+  education3: Atualmente realiza pós-doutorado no LABDAPS na aplicação de machine learning para predizer eventos como internação hospitalar e óbitos
 
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
+- name: Mariane Furtado Borba
+  photo: Mariane.png
+  info: Pesquisadora
   email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+  number_educ: 3
+  education1: Graduação e mestrado em Economia Aplicada pela Universidade Federal de Pelotas
+  education2: Experiência em pesquisas sobre avaliação de políticas públicas e economia da saúde.
+  education3: Atualmente é doutoranda em Epidemiologia da FSP/USP e pesquisadora do LABDAPS, realizando pesquisas na área de predição da incidência de eventos de saúde com machine learning
 
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
+- name: Fernanda Fortti de Carvalho Vianna
+  photo: Fernanda.jpg
+  info: Pesquisadora
   email: WTromp@physics.leidenuniv.nl
   number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
+  education1: Graduação em Biomedicina pela UNIFESP
+  education2: Especialização em Pesquisa Clínica pela Invitare Academia Brasileira de Ensino e Pesquisa em Saúde
+  education3: Pós-graduação em Administração Hospitalar e de Serviços e Sistemas de Saúde pela EAESP-FGV
+  education4: Pós-graduação em Gestão em Saúde pelo PROAHSA (HCFMUSP/FMUSP/EAESP-FGV)
+  education5: Atualmente é mestranda do curso de pós-graduação em Saúde Pública da FSP-USP
 
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
+- name: Felippe Lazar Neto
+  photo: Felipe.jpg
+  info: Pesquisador
   email: benschop@physics.leidenuniv.nl
+  number_educ: 3
+  education1: Graduação em Medicina pela Faculdade de Medicina da USP
+  education2: Residência em Clínica Médica pela Faculdade de Medicina da USP
+  education3: Atualmente realiza estágio científico no LABDAPS sobre a aplicação de algoritmos de machine learning para predições em saúde
+
+- name: Tiago Almeida de Oliveira
+  photo: Thiago.jpeg
+  info: Pesquisador
+  email: tadolive84@gmail.com
+  number_educ: 1
+  education1: Doutor em Ciências (Estatística e Experimentação Agropecuária), tese com <a href=" http://www.lce.esalq.usp.br/ ">LCE</a>, Universidade de São Paulo Campus Luiz de Queiroz
+
+- name: Bruno Casaes Teixeira
+  photo: Bruno.jpg
+  info: Pesquisador
+  email: bcteixeira@usp.br
   number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
+  education1: Graduação em Farmácia-Bioquímica pela Universidade de São Paulo
+  education2: Mestrando na Faculdade de Epidemiologia
   education3:
   education4:
 
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: Fine mechanical engineer associated with the FMD working in our group
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Freek Groenewoud
-  photo: Freek.jpg
-  info: Fine mechanical engineer associated with the FMD working in our group
-  email: Groenewoud@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse Instrumentmaker School
-  education2: Mechanical Engineer , Hogeschool  Delft
-  education3:
-  education4:
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
